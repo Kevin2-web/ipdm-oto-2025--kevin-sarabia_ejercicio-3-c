@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.tarea4"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.tarea4"
+=======
+    namespace = "com.example.tarea3_3"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.tarea3_3"
+>>>>>>> 11440f3ff5f3e23db3f81d25ed3993f0aedaf8ab
         minSdk = 24
         targetSdk = 35
         versionCode = 1

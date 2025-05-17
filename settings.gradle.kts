@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Tarea 4"
+=======
+rootProject.name = "Tarea3_3"
+>>>>>>> 11440f3ff5f3e23db3f81d25ed3993f0aedaf8ab
 include(":app")
  
